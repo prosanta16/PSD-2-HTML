@@ -1,0 +1,327 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 650px;
+	 height: 1354px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 650px;
+	 height: 1354px;
+	 z-index:1;
+} 
+
+ #Shape1 
+{ 
+	 left: -1px; 
+	 top: -1px; 
+	 position: absolute; 
+	 width: 652px;
+	 height: 1305px;
+	 z-index:2;
+} 
+
+ #Shape2 
+{ 
+	 left: 27px; 
+	 top: 394px; 
+	 position: absolute; 
+	 width: 401px;
+	 height: 903px;
+	 z-index:3;
+} 
+
+ #subscribedforournews 
+{ 
+	 left: 164px; 
+	 top: 1313px; 
+	 position: absolute; 
+	 width: 367px;
+	 height: 30px;
+	 z-index:4;
+} 
+
+ #Layer6 
+{ 
+	 left: 435px; 
+	 top: 683px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 81px;
+	 z-index:5;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 443px; 
+	 top: 444px; 
+	 position: absolute; 
+	 width: 172px;
+	 height: 168px;
+	 z-index:6;
+} 
+
+ #Shape3 
+{ 
+	 left: 433px; 
+	 top: 393px; 
+	 position: absolute; 
+	 width: 194px;
+	 height: 34px;
+	 z-index:7;
+} 
+
+ #Relatedinfo 
+{ 
+	 left: 448px; 
+	 top: 401px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 18px;
+	 z-index:8;
+} 
+
+ #Shape3copy 
+{ 
+	 left: 433px; 
+	 top: 641px; 
+	 position: absolute; 
+	 width: 194px;
+	 height: 34px;
+	 z-index:9;
+} 
+
+ #Relatedinfo_0 
+{ 
+	 left: 448px; 
+	 top: 649px; 
+	 position: absolute; 
+	 width: 122px;
+	 height: 18px;
+	 z-index:10;
+} 
+
+ #Aliquamsapienturpisf 
+{ 
+	 left: 435px; 
+	 top: 777px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 59px;
+	 z-index:11;
+} 
+
+ #Layer7 
+{ 
+	 left: 438px; 
+	 top: 865px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 81px;
+	 z-index:12;
+} 
+
+ #Aliquamsapienturpisf_0 
+{ 
+	 left: 438px; 
+	 top: 959px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 59px;
+	 z-index:13;
+} 
+
+ #Layer8 
+{ 
+	 left: 438px; 
+	 top: 1045px; 
+	 position: absolute; 
+	 width: 191px;
+	 height: 81px;
+	 z-index:14;
+} 
+
+ #Aliquamsapienturpisf_1 
+{ 
+	 left: 438px; 
+	 top: 1139px; 
+	 position: absolute; 
+	 width: 187px;
+	 height: 59px;
+	 z-index:15;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 27px; 
+	 top: 394px; 
+	 position: absolute; 
+	 width: 306px;
+	 height: 25px;
+	 z-index:16;
+} 
+
+ #Quisquetortorlectusi 
+{ 
+	 left: 28px; 
+	 top: 609px; 
+	 position: absolute; 
+	 width: 382px;
+	 height: 55px;
+	 z-index:17;
+} 
+
+ #Imperdietinblanditut 
+{ 
+	 left: 27px; 
+	 top: 1029px; 
+	 position: absolute; 
+	 width: 325px;
+	 height: 25px;
+	 z-index:18;
+} 
+
+ #Layer5 
+{ 
+	 left: 34px; 
+	 top: 684px; 
+	 position: absolute; 
+	 width: 366px;
+	 height: 239px;
+	 z-index:19;
+} 
+
+ #Loremipsumdolorsitam_1 
+{ 
+	 left: 27px; 
+	 top: 435px; 
+	 position: absolute; 
+	 width: 388px;
+	 height: 121px;
+	 z-index:20;
+} 
+
+ #Quisqueegetnequepuru 
+{ 
+	 left: 31px; 
+	 top: 1072px; 
+	 position: absolute; 
+	 width: 376px;
+	 height: 185px;
+	 z-index:21;
+} 
+
+ #Loremipsumdolorsitam_2 
+{ 
+	 left: 38px; 
+	 top: 944px; 
+	 position: absolute; 
+	 width: 352px;
+	 height: 43px;
+	 z-index:22;
+} 
+
+ #42StreetNameAreaName 
+{ 
+	 left: 459px; 
+	 top: 43px; 
+	 position: absolute; 
+	 width: 167px;
+	 height: 42px;
+	 z-index:23;
+} 
+
+ #Layer1 
+{ 
+	 left: 23px; 
+	 top: 108px; 
+	 position: absolute; 
+	 width: 604px;
+	 height: 237px;
+	 z-index:24;
+} 
+
+ #Layer1copy 
+{ 
+	 left: 23px; 
+	 top: 345px; 
+	 position: absolute; 
+	 width: 604px;
+	 height: 237px;
+	 z-index:25;
+} 
+
+ #InsuranceNewsletter 
+{ 
+	 left: 499px; 
+	 top: 22px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 10px;
+	 z-index:26;
+} 
+
+ #InsuranceNewsletter_0 
+{ 
+	 left: 23px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 265px;
+	 height: 23px;
+	 z-index:27;
+} 
+
+ #Loremipsumdolorsitam_3 
+{ 
+	 left: 402px; 
+	 top: 143px; 
+	 position: absolute; 
+	 width: 208px;
+	 height: 54px;
+	 z-index:28;
+} 
+
+ #Layer2 
+{ 
+	 left: 542px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:29;
+} 
+
+ #Layer3 
+{ 
+	 left: 570px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:30;
+} 
+
+ #Layer4 
+{ 
+	 left: 598px; 
+	 top: 357px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 21px;
+	 z-index:31;
+} 
